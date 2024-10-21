@@ -81,4 +81,4 @@ footer:
 # 文章搜索
 search:
   enable: true
-  placeholder: 搜索
+  placeholder: $ grep
