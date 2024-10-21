@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: leedom
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -107,4 +107,3 @@ search:
   path: search.xml
   field: post
   content: true
-  template: ./search.xml
